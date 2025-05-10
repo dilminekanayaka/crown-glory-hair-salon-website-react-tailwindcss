@@ -29,7 +29,8 @@ A modern, elegant, and inclusive salon website specializing in Afro-textured hai
 
 ## 📷 Preview
 
-![Home Page](./Homepage-web-version.png)
+![Home Page](public/Homepage-web-version.png)
+
 
 ## 🚀 Getting Started
 

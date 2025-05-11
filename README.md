@@ -2,6 +2,8 @@
 
 A modern, elegant, and inclusive salon website specializing in Afro-textured hair care, built with **React** and **Tailwind CSS**.
 
+> 🖼️ *All images used in this project were generated using AI via [Poe Image Generator Tool](https://poe.com/Image-Generator-Tool)*
+
 ## ✨ Features
 
 - Fully responsive design (Desktop & Mobile)
@@ -30,7 +32,6 @@ A modern, elegant, and inclusive salon website specializing in Afro-textured hai
 ## 📷 Preview
 
 ![Home Page](public/Homepage-web-version.png)
-
 
 ## 🚀 Getting Started
 
